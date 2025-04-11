@@ -1,11 +1,12 @@
 [
     {
-        "name": "PlaybackApi",
+        "name": "CK's PlaybackApi",
         "description": "Extension to expose a playback api through websocket since spotify's is paywalled",
         "preview": "term.png",
-        "main": "dist/playbackapi.js",
+        "main": "dist/playbackapick.js",
         "readme": "Readme.md",
         "authors":[
+            { "name": "CrazyKitty", "url": "https://crazykitty357.github.io"},
             { "name": "nom", "url":"https://github.com/Om-Thorat" }
         ],
         "tags" : ["api"]

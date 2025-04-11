@@ -145,3 +145,6 @@ release/
 .svelte-kit
 
 # End of https://www.toptal.com/developers/gitignore/api/node
+
+# I didn't know how the spicetify-creator worked so I wanted to archive the original files to test.
+dist-testing/
